@@ -1,0 +1,15 @@
+name: EEMFFN
+channels:
+  - defaults
+  - conda-forge
+    
+dependencies:
+  - python=3.6
+  - numpy=1.16.4
+  - tqdm
+  - tensorflow-gpu=1.10.0
+  - matplotlib
+  - imageio
+  - scikit-image
+  - scipy=1.2.0
+
