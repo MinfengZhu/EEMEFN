@@ -3,7 +3,9 @@
 ## Introduction
 This project page provides TensorFlow 1.X code that implements the following AAAI2019 paper:
 
-**Title:** "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network"
+Title: "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network"
+
+Paper: https://aaai.org/ojs/index.php/AAAI/article/view/7013/6867
 
 ## How to use
 ```
